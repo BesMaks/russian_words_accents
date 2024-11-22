@@ -1,0 +1,21 @@
+{
+  "DenseNet": {
+    "EMBEDDING_DIM": 64,
+    "DICT_SIZE": 4340,
+    "MAX_LENGTH": 6
+  },
+
+  "BertNet": {
+    "EMBEDDING_DIM": 128,
+    "DICT_SIZE": 4340,
+    "MAX_LENGTH": 6
+  },
+
+  "LemmaUsingNet": {
+    "EMBEDDING_DIM": 64,
+    "DICT_SIZE": 4340,
+    "LEMMA_DICT_SIZE": 4251,
+    "MAX_LENGTH": 6,
+    "MAX_LEMMA_LENGTH": 7
+  }
+}
